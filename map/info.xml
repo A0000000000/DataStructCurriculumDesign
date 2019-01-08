@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataBase>
+	<type>QMYSQL</type>
+	<DataBaseName>schoolmap</DataBaseName>
+	<address>127.0.0.1</address>
+	<port>3306</port>
+	<username>root</username>
+	<password>1998</password>
+</DataBase>
